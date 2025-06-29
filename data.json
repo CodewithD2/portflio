@@ -1,0 +1,72 @@
+{
+  "name": "Diaa El-din Atya",
+  "title": "Python Developer & Tech Content Creator",
+  "location": "Egypt",
+  "summary": "Tech enthusiast with a deep interest in Python, data analysis, and reverse engineering. I run the YouTube channel 'Code with D' where I create engaging programming tutorials and educational content aimed at beginners and aspiring developers.",
+  "experience": [
+    {
+      "role": "Python Instructor & Content Creator",
+      "company": "Code with D (YouTube)",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "description": "Creating educational video content on Python programming, data analysis, and tech tutorials in Arabic. Focus on beginner-friendly explanations, AI integration, and making coding fun and engaging."
+    },
+    {
+      "role": "Freelance Developer",
+      "company": "Self-employed",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "description": "Working on web development projects using Express, React, Sequelize, and SQLite. Created a personal portfolio with blog/project management, authentication, and an admin panel. Developed educational and AI-powered tools."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Self-Taught / Online Learning",
+      "degree": "Software Development and Data Analysis",
+      "startDate": "2021",
+      "endDate": "Present",
+      "description": "Completed multiple online courses in Python, data analysis, web development, and operating systems (including 'Operating Systems: Three Easy Pieces')."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Data Analysis",
+    "Pandas",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "SQLite",
+    "Sequelize",
+    "JWT Authentication",
+    "AdminJS",
+    "Git & GitHub",
+    "Technical Writing",
+    "Video Scripting"
+  ],
+  "projects": [
+    {
+      "name": "CodewithD Portfolio Website",
+      "description": "A personal portfolio with dark theme, JWT-protected admin panel, project/blog management, and hosted on Google Cloud.",
+      "techStack": ["React", "Vite", "Express", "SQLite", "JWT", "AdminJS"]
+    },
+    {
+      "name": "M.C.P (Model Context Protocol)",
+      "description": "Python SDK tool that allows LLMs like Claude Desktop to create and read CSV files, enabling them to answer questions based on structured data.",
+      "techStack": ["Python", "CSV", "LLM Integration"]
+    },
+    {
+      "name": "Remotique Store Integration",
+      "description": "Worked on Shopify product data integration for generating automatic price lists and quotations in Odoo.",
+      "techStack": ["Shopify", "Odoo"]
+    }
+  ],
+  "certifications": [],
+  "languages": ["Arabic (native)", "English (fluent)", "Spanish (beginner)"],
+  "volunteer": [],
+  "awards": [],
+  "content_creation": {
+    "youtube_channel": "https://www.youtube.com/@codewithd",
+    "popular_series": ["Pro vs Beginner - Python Series", "Operating Systems Explained (Arabic)"],
+    "tone": "Engaging, humorous, beginner-friendly"
+  }
+}
